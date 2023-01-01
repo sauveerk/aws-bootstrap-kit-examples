@@ -6,7 +6,7 @@
     "github_repo_name": "aws-bootstrap-kit-examples",
     "github_repo_branch": "main",
     "email": "sauveer.ketan@gmail.com",
-    "domain_name": "skcarchitect.in",
+    "domain_name": "skcarchitect.org",
     "force_email_verification": true,
     "pipeline_deployable_regions": [
       "us-east-1",
